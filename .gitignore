@@ -1,0 +1,20 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuración local del editor
+.vscode/
+
+# Resultados generados automáticamente en la raíz
+/resultados_repeticiones.csv
+/resultados_resumen.csv
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
